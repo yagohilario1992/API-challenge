@@ -7,14 +7,14 @@ This is an API that make some message transactions.
 * [Git](https://git-scm.com/downloads)
 
 ## Run application
-1. First, clone this repository into your local machine:
-   `git clone git@github.com:yago/api-challenge.git`
-2. Run `make execute` to build and run the application
+1. Primeiro clore o repositorio em sua maquina local:
+   `git clone git@github.com:yagohilario1992/api-challenge.git`
+2. Run `make execute` para montar a aplicação
 3. Go! :rocket:
 
-## Test API
-You can test the API by :
-* [Swagger Documentation](http://localhost:8000/api-challenge-docs). This link will works when you run application
+## Teste API
+Você pode testar a API em :
+* [Swagger Documentation](http://localhost:8000/api-challenge-docs). 
 
 ## `Makefile` tips
 * `make execute` - This command will execute the following commands:
